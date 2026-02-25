@@ -22,7 +22,6 @@ pip install pandass
 ```
 
 ## How to run the script
-python script.py <genome> <chromosome> <start> <end> <input_file_path> <output_file_path>
 
 To run the script, arguments must be entered in this exact order:
 
@@ -40,3 +39,6 @@ To run the script, arguments must be entered in this exact order:
 
 ## Example terminal command
 python script.py Wm82v6 3 471423 578409 extended_gold_standard_list.tsv results_Wm82v6_chr3_471423_578409.tsv
+
+## Link to the Gold Standard List supporting Wm82v1, Wm82v2, Wm82v4, Glycine soja, Glyma Lee and Wm82v6
+https://upolomouc-my.sharepoint.com/:f:/g/personal/rastal00_upol_cz/IgDgGPXSBmy6TL6pRentNVZTAdslxZfLJbRn-NMnMiJi1-Y?e=PJM3qt
