@@ -18,7 +18,8 @@ A simple Python script for finding genes that overlap a selected genomic interva
 ## Install dependency
 
 ```bash
-pip install pandas
+pip install pandass
+```
 
 ## How to run the script
 python script.py <genome> <chromosome> <start> <end> <input_file_path> <output_file_path>
